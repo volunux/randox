@@ -8,4 +8,6 @@ I am a funny bear
 
 The feature header branch
 
+Just simple and fun
+
 update text. END.
